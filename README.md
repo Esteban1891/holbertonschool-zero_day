@@ -1,34 +1,28 @@
 # :bomb: holbertonschool-zero_day :bomb:
 
-## Introduction
+## Introduction :nut_and_bolt:
 Repository for understanding the "uname" Vagrant command and practicing Git.
 
-## Table of Contents
+## Table of Contents :envelope:
 
-* [About](#about)
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Projects](#projects)
 * [Author](#author)
 
-## About
+## Requirements :bar_chart:
 
-This repository contains projects on:
-
-
-## Requirements
-
-*MacOs
+* MacOs
 * Ubuntu 14.04 LTS
 
-## Installation
+## Installation :bookmark_tabs:
 
 In your terminal, git clone the directory with the following command:
 
 ```sh
 git clone https://github.com/Esteban1891/[Github project directory]
 ```
-## Projects
+## Projects :chart_with_downwards_trend:
 
 1. [0x00-vagrant](./0x00-vagrant)
 1. [0x01-shell_permissions](./0x01-shell_permissions)
