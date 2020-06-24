@@ -25,9 +25,9 @@ git clone https://github.com/Esteban1891/[Github project directory]
 ## Projects
 
 1. [0x00-vagrant](./0x00-vagrant)
-1. [0x01-shell_permissions](./0x01-shell_permissions)
-1. [0x02-shell_redirections](./0x02-shell_redirections)
-
+1. [0x01-emacs](./0x01-emacs)
+1. [0x02-vi](./0x02-vi)
+1. [0x03-git](./0x03-git)
 
 ## Author
 
