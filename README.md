@@ -8,15 +8,13 @@ Repository for understanding the "uname" Vagrant command and practicing Git.
 * [About](#about)
 * [Requirements](#requirements)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Projects](#projects)
 * [Author](#author)
 
-## Projects
+## About
 
-1. [0x00-shell_basics](./0x00-shell_basics)
-1. [0x01-shell_permissions](./0x01-shell_permissions)
-1. [0x02-shell_redirections](./0x02-shell_redirections)
+This repository contains projects on:
+
 
 ## Requirements
 
@@ -30,6 +28,11 @@ In your terminal, git clone the directory with the following command:
 ```sh
 git clone https://github.com/Esteban1891/[Github project directory]
 ```
+## Projects
+
+1. [0x00-vagrant](./0x00-vagrant)
+1. [0x01-shell_permissions](./0x01-shell_permissions)
+1. [0x02-shell_redirections](./0x02-shell_redirections)
 
 
 ## Author :octocat:
